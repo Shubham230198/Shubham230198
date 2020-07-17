@@ -6,13 +6,15 @@ Being in a constant state of responsibility is my idea of growth. I always look 
 
 I am a highly ambitious and competent MERN stack web-developer and freelance web-developer. I have proficiency in HTML, CSS, BOOTSTRAP, JavaScript, NodeJs, MongoDB and ReactJs.
 
-###I firmly standby, believe and apply the three principles, i.e., VIQ (Value, Innovation, Quality) in every project that i undertake. 
+### I firmly standby, believe and apply the three principles, i.e., VIQ (Value, Innovation, Quality) in every project that i undertake. 
+
+  - 🔭 I’m currently working on a clone of VsCode, with electron.
 <!--
 **Shubham230198/Shubham230198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
